@@ -136,15 +136,15 @@ b = a
 # print(a is b);
 # print(a is not b);
 # print(a is c);
-# print(c is a);
-age_01=20;
-age_02=55;
-my_list=[20,22,30 ,33,40,44];
-if(age_02 not in my_list):
-    print(age_02,"this Number Not Present In My List",my_list);
-else:
-    print("this Number present in Given List");
-if(age_01 in my_list):
-    print(age_01,"This Number Is Present In This List",my_list);
-else:
-    print("this Number Not Present in This list");
+# # print(c is a);
+# age_01=20;
+# age_02=55;
+# my_list=[20,22,30 ,33,40,44];
+# if(age_02 not in my_list):
+#     print(age_02,"this Number Not Present In My List",my_list);
+# else:
+#     print("this Number present in Given List");
+# if(age_01 in my_list):
+#     print(age_01,"This Number Is Present In This List",my_list);
+# else:
+#     print("this Number Not Present in This list");
